@@ -1,6 +1,7 @@
 # Actions-OpenWrt
-- 仅用于编译 p2w_r619ac 固件 
-- 感谢 P3TERX 大佬的脚本
+仅用于编译 p2w_r619ac 固件 
+
+感谢 P3TERX 大佬的脚本
 
 Build OpenWrt using GitHub Actions
 
