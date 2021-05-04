@@ -1,6 +1,6 @@
 # Actions-OpenWrt
-仅用于：竞斗云2.0固件
-感谢 P3TERX 大佬的脚本
+- 仅用于：竞斗云2.0固件
+- 感谢 P3TERX 大佬的脚本
 
 Build OpenWrt using GitHub Actions
 
