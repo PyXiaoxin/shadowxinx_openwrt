@@ -6,7 +6,7 @@
 
   [P3TERX](https://github.com/P3TERX/Actions-OpenWrt) 大佬的脚本
 
-  Build OpenWrt using GitHub Actions
+  [L大佬](https://github.com/coolsnowwolf/lede) 的源码
 
   [Read the details in my blog (in Chinese) | 中文教程](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
