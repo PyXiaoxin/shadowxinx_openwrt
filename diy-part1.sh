@@ -15,7 +15,7 @@
 #git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 #git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
  git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
- git clone https://github.com/rosywrt/luci-theme-rosy.git package/rosy
+#git clone https://github.com/rosywrt/luci-theme-rosy.git package/rosy
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
