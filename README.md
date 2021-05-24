@@ -1,5 +1,5 @@
 # shadowxinx_openwrt 说明：
-- 仅用于编译 p2w_r619ac, x86 固件
+- 仅用于编译 p2w_r619ac&x86 固件
 - [下载链接](https://github.com/PyXiaoxin/shadowxinx_openwrt/releases)
 
 - 感谢：
