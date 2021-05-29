@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: p2w_r619ac
+name: p2w_r619ac_stable
 
 on:
   repository_dispatch:
