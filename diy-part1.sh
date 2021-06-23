@@ -20,6 +20,8 @@
  git clone https://github.com/rosywrt/luci-theme-rosy.git package/rosy
 #速度测试
  git clone https://github.com/sirpdboy/NetSpeedTest package/NetSpeedTest
+#各种包
+ git clone https://github.com/liuran001/openwrt-packages
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
