@@ -15,13 +15,10 @@
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/jerrykuku/luci-app-vssr.git package/luci-app-vssr
 #应用过滤
- git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
+git clone https://github.com/destan19/OpenAppFilter.git package/OpenAppFilter
 #rosy主题
- git clone https://github.com/rosywrt/luci-theme-rosy.git package/rosy
+git clone https://github.com/rosywrt/luci-theme-rosy.git package/rosy
 #速度测试
- git clone https://github.com/sirpdboy/NetSpeedTest package/NetSpeedTest
-#各种包
- git clone https://github.com/liuran001/openwrt-packages
-
+git clone https://github.com/sirpdboy/NetSpeedTest package/NetSpeedTest
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
